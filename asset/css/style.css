@@ -1,0 +1,84 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.descripcion {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+
+
+}
+
+.descripcion2 {
+    margin: 5px;
+    padding: 50px;
+    width: 130%;
+    font-size: 30px;
+}
+
+.descripcion3 {
+
+    margin: 5px;
+    padding: 60px;
+    width: 130%;
+    ;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.caracteristicas {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    align-items: center;
+    height: 80px;
+    font-size: 80px;
+    padding: 20px
+}
+
+.titulo1 {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: gray;
+    font-size: 40px;
+}
+
+.imagenes {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.retoque {
+    padding: 10px;
+}
+
+.fonta {
+    text-align: center;
+    align-items: center;
+    text-align: center;
+}
+
+.colorf {
+    background-color: gray;
+    margin-bottom: 60px;
+    padding: 20px;
+}
+
+.titulo2 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.piso {
+    background-color: gray;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+}
